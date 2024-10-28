@@ -9,5 +9,5 @@ Algoritmo eje_operadores
 	multiplicacion = num1 * num2
 	pot = num1 ^ num2
 	div = num1 / num2
-	Escribir "el resultado de las operaciones es:la suma es "suma" la resta es "resta" la multiplicacion es " multiplicacion " la potencia es " pot " y la division es " div"
+	Escribir "el resultado de suma es: ", suma " de resta es: ", resta " de multiplicacion es: ", multiplicacion " de porcentaje es: ", pot " de divicion es: " div
 FinAlgoritmo
