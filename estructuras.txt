@@ -1,0 +1,11 @@
+Estructuras base de la programación
+
+1 Variables 
+- Es un espacio que se abre en la memoria para almacenar un dato.
+- (nombre) y (tipo de dato) que se utilizara 
+
+2 Asignacion
+3 Operadores matematicos
+4 Operadores logicos
+5 Taller
+6 Retroalimentacion
